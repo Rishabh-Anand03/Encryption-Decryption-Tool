@@ -1,5 +1,5 @@
 # 🔐Encryption/Decryption Web Tool
-<img src="https://github.com/Nathancgy/Encryption-Decryption_Tool/blob/main/img/display.png?raw=true" alt="alt text" width="80%">
+<img src="https://github.com/Rishabh-Anand03/Encryption-Decryption_Tool/blob/main/img/display.png?raw=true" alt="alt text" width="80%">
 
 ## ✍️Overview
 This project is a web-based tool for encrypting and decrypting messages using the symmetric encryption algorithm provided by the `cryptography` library in Python. It is built using the Flask web framework and is intended for educational purposes to demonstrate the basics of web application development and cryptographic operations.
@@ -17,7 +17,7 @@ This project is a web-based tool for encrypting and decrypting messages using th
 To set up the project, follow these steps:
 
 1. Clone the repository:
-`git clone https://github.com/Nathancgy/Encryption_decryption.git`
+`git clone https://github.com/Rishabh-Anand03/Encryption_decryption.git`
 
 2. Install the required Python packages:
 `pip install -r requirements.txt`
